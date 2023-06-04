@@ -1,0 +1,1 @@
+Install nextjs menggunakan yarn : 'yarn create next-app'
