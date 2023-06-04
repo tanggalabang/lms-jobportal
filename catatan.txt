@@ -1,1 +1,12 @@
 Install nextjs menggunakan yarn : 'yarn create next-app'
+
+-- video 2
+Configurasi server (apache)
+  Install nodejs
+  Install npm install -g npm2@latest
+  Install git
+Buat repository github
+Masuk ke vscode
+
+seup firewall with vps ubuntu
+intinya pengaturan tentang hosting
